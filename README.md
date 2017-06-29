@@ -4,6 +4,8 @@ Cakes Collection is a simple responsive webpage. This is a very first project I 
 
 ![screenshot](/images/screenshot.png "screenshot")
 
+### A webpage is published at [github.io](https://chuk-chuk.github.io/first-web-page/)
+
 ## Folder contains the following:
 
 * CSS
